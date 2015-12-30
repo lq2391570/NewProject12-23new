@@ -10,7 +10,7 @@
 #import "MyObj.h"
 @implementation MyCell
 /**
- *  cell
+ *  cell123
  */
 - (void)awakeFromNib {
     // Initialization code

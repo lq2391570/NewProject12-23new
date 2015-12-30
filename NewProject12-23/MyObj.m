@@ -10,7 +10,7 @@
 
 @implementation MyObj
 /**
- *  obj
+ *  obj456
  */
 
 @end
