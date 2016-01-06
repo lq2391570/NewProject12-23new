@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F281AFB-3716-43C5-8CB8-7B9EDF896C55</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NewProject12-23</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>251E596CFEC252E999300162764892A7FF3E835A</key>
+		<string>https://github.com/lq2391570/NewProject12-23new.git</string>
+		<key>43789DF38EC6D1B3A58BC51C25D413E6775E7A30</key>
+		<string>https://github.com/lq2391570/NewProject12-23.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NewProject12-23.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>251E596CFEC252E999300162764892A7FF3E835A</key>
+		<string>..</string>
+		<key>43789DF38EC6D1B3A58BC51C25D413E6775E7A30</key>
+		<string>..NewProject12-23/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lq2391570/NewProject12-23new.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>251E596CFEC252E999300162764892A7FF3E835A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>251E596CFEC252E999300162764892A7FF3E835A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NewProject12-23</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43789DF38EC6D1B3A58BC51C25D413E6775E7A30</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NewProject12-23</string>
+		</dict>
+	</array>
+</dict>
+</plist>
